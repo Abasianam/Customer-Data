@@ -16,7 +16,7 @@ dashboard that presented my analysis.
 - Customer data was analyzed using pivot tables to find subscription patterns.
   
 - The average subscription duration was calculated using pivot tables and the most popular 
-subscription types was identified.
+subscription type was identified.
 
 # SQL 
 

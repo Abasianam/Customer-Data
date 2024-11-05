@@ -106,4 +106,15 @@ from [dbo].[CAPSTONE DATA2];
 
 # Power BI
 
+Below are pictorial representations of the customer data:
+
+
 ![POWER BI VISUALISATION 2](https://github.com/Abasianam/Customer-Data/blob/main/POWER20%BI20%VISUALISATION20%220%.jpg)
+
+
+
+![Basic subscription Type](https://github.com/Abasianam/Customer-Data/blob/main/Basic20%subscription20%type.jpg)
+
+
+
+![Eastern region](https://github.com/Abasianam/Customer-Data/blob/main/Eastern20%region20%.jpg)

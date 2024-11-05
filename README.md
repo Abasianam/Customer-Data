@@ -39,8 +39,8 @@ cancellations, and subscription trends. Slicers were included for interactive an
 
 # Discussion/Result 
 
-The total number of customers was 37K. The total revenue generated was 68M. The most popular subscription type was Basic, with a total of 16,921 customers. The Eastern region had the highest number of customers with a total of 8,488. No customer canceled their subscription within 6 months neither was there any customer whose suscription was longer than 12 months. 
-The revenue generated from Basic subscription was NGN 33,776735. The total number of active and canceled subscriptions are, 18,612 and 15,175. 
+The total number of customers was 34K. The total revenue generated was 68M. The most popular subscription type was Basic, with a total of 16,921 customers. The Eastern region had the highest number of customers with a total of 8,488. No customer canceled their subscription within 6 months neither was there any customer whose suscription was longer than 12 months. 
+The revenue generated from Basic subscription was 33,776,735. The total number of active and canceled subscriptions are, 18,612 and 15,175. 
 
 # MS Excel 
 
